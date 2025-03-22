@@ -2,16 +2,16 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-**Reactris** is a modern, browser-based implementation of the classic Tetris game. Built with **React**, **TypeScript**, and **Tailwind CSS**, this project combines clean code with a sleek design to deliver a fun and engaging gaming experience.
+**Reactris** is a modern, browser-based implementation of the classic Tetris game. Built with **React** and **TypeScript**, this project combines clean code with a sleek design to deliver a fun and engaging gaming experience.
 
 ---
 
-## 🚀 Features (Planned)
+## 🚀 Features
 
 - **Classic Tetris gameplay**: Stack blocks, clear lines, and aim for a high score.
 - **Responsive design**: Play on desktop, tablet, or mobile.
-- **Smooth animations**: Enjoy fluid block movements and line clears.
-- **Customizable controls**: Remap keys to suit your playstyle.
+- **Upcoming blocks preview**: See the next blocks to plan your moves.
+- **High score tracking**: Compete with yourself to beat your best score.
 
 ---
 
@@ -19,7 +19,6 @@
 
 - **React**: For building the user interface and managing game state.
 - **TypeScript**: For type safety and better developer experience.
-- **Tailwind CSS**: For rapid and responsive styling.
 - **Vite**: For fast development and bundling.
 
 ---
@@ -47,17 +46,13 @@ To run Reactris locally, follow these steps:
 5. Open your browser and visit http://localhost:5173 to play the game!
 
 ## 🎮 How to Play
-Move Left: Arrow Left or A
+- Move Left: Arrow Left
 
-Move Right: Arrow Right or D
+- Move Right: Arrow Right
 
-Rotate: Arrow Up or W
+- Rotate: Arrow Up
 
-Soft Drop: Arrow Down or S
-
-Hard Drop: Spacebar
-
-Pause: P
+- Soft Drop: Arrow Down
 
 ## 🛣️ Roadmap
 Here are some features planned for future versions:
@@ -71,6 +66,10 @@ Here are some features planned for future versions:
 - Leaderboard and achievements
 
 - Mobile touch controls
+
+- Smooth animations for line clears and game-over effects
+
+- Customizable controls
 
 ## 🤝 Contributing
 Contributions are welcome! If you'd like to contribute to Reactris, please follow these steps:
@@ -87,27 +86,11 @@ Contributions are welcome! If you'd like to contribute to Reactris, please follo
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## 🙏 Acknowledgments
-- Inspired by the classic Tetris game.
+Inspired by the classic Tetris game.
 
-- Built with love using React, TypeScript, and Tailwind CSS.
+Built with love using React, and TypeScript.
 
 Enjoy playing Reactris! If you have any feedback or suggestions, feel free to open an issue or reach out. Happy coding! 🎉
 
 
 ---
-
-### Key Sections in the README:
-1. **Title and Badges**: A catchy name and a license badge.
-2. **Description**: A brief overview of the project.
-3. **Features**: Highlights what the game offers (even if it’s basic for now).
-4. **Technologies**: Lists the tech stack.
-5. **Installation**: Clear steps to run the project locally.
-6. **How to Play**: Explains the controls.
-7. **Roadmap**: Outlines future plans.
-8. **Contributing**: Encourages collaboration.
-9. **License**: Specifies the project’s license.
-10. **Acknowledgments**: Gives credit to inspiration and tools used.
-
----
-
-Feel free to customize this template further to match your style and project goals. Let me know if you need help with anything else! 😊
